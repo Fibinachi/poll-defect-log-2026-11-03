@@ -6,4 +6,6 @@ Here I am, posting an encrypted file to a public repo. Have I made a terrible mi
 
 If you cared enough to look, you should reach out. Reach out. We should talk.
 
+Label: AI safety data
+
 Files in this repo are encrypted. The key is NOT in this repo.
